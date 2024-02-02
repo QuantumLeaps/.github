@@ -1,5 +1,5 @@
 <a href="https://www.state-machine.com" title="state-machine.com">
-<img src="https://www.state-machine.com/attachments/logo_ql-qr.png" title="state-machine.com">
+<img src="https://www.state-machine.com/attachments/logo_ql-qr.webp" title="state-machine.com">
 </a>
 
 [<b>Quantum Leaps, LLC</b>](https://www.state-machine.com) is a
@@ -12,7 +12,7 @@ modern embedded software and host-based tools centered around the open-source
 # State Machines & Tools for Embedded Systems
 <p align="center">
 <a href="https://www.state-machine.com/products" title="state-machine.com">
-<img src="https://www.state-machine.com/attachments/qp-ecosystem.png"/></a>
+<img src="https://www.state-machine.com/attachments/qp-ecosystem.webp"/></a>
 </p>
 
 The unique Quantum Leaps ecosystem enables embedded developers to apply the
