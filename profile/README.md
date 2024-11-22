@@ -4,10 +4,13 @@
 
 [<b>Quantum Leaps, LLC</b>](https://www.state-machine.com) is a
 [professional open source](https://www.state-machine.com/about#OpenSource)
-company on a mission to bring **quantum leaps** in quality and productivity to
-**embedded systems programming**. We provide a comprehensive suite of modern,
-asynchronous embedded software and host-based tools centered around the open-source
-[QP Real-Time Embedded Frameworks (RTEFs)](https://www.state-machine.com/rtef).
+company that brings the asynchronous, event-driven
+[Active Objects](https://www.state-machine.com/active-object) (Actor model)
+to deeply embedded real-time programming. Quantum Leaps'
+[QP Real-Time Embedded Frameworks (RTEFs)](https://www.state-machine.com/rtef)
+and the tools around them enable embedded developers to efficiently apply the
+Active Object (Actor) design pattern, hierarchical state machines, graphical
+modeling, and automatic code generation.
 
 # State Machines & Tools for Embedded Systems
 <p align="center">
