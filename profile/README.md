@@ -7,15 +7,15 @@
 company that brings the asynchronous, event-driven
 [Active Objects](https://www.state-machine.com/active-object) (Actor model)
 to deeply embedded real-time programming. Quantum Leaps'
-[QP Real-Time Embedded Frameworks (RTEFs)](https://www.state-machine.com/rtef)
+[QP Real-Time Event Frameworks (RTEFs)](https://www.state-machine.com/rtef)
 and the tools around them enable embedded developers to efficiently apply the
 Active Object (Actor) design pattern, hierarchical state machines, graphical
 modeling, and automatic code generation.
 
 # State Machines & Tools for Embedded Systems
 <p align="center">
-<a href="https://www.state-machine.com/products" title="state-machine.com">
-<img src="https://www.state-machine.com/attachments/qp-ecosystem.webp"/></a>
+<a href="https://www.state-machine.com/products" title="state-machine.com/products">
+<img src="qp_ecosystem.webp"/></a>
 </p>
 
 # Beyond the RTOS
