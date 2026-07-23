@@ -1,5 +1,5 @@
 <a href="https://www.state-machine.com" title="state-machine.com">
-<img src="https://www.state-machine.com/attachments/logo_ql-qr.webp" title="state-machine.com">
+<img src="logo_ql-qr.webp" title="state-machine.com">
 </a>
 
 [<b>Quantum Leaps, LLC</b>](https://www.state-machine.com) is a
@@ -12,26 +12,24 @@ and the tools around them enable embedded developers to efficiently apply the
 Active Object (Actor) model, hierarchical state machines, graphical
 modeling, and automatic code generation.
 
+# Issue Tacking and Support
+
+> [!IMPORTANT]
+> **Quantum Leaps does NOT use GitHub Issues for technical support.**
+
+Please use the following official support channels [hosted on SourceForge](https://sourceforge.net/p/qpc):
+- **Bug Reports:** [**Bug Tracker database**](https://sourceforge.net/p/qpc/bugs)
+- **Feature Requests:** [**Feature Requests database**](https://sourceforge.net/p/qpc/feature-requests)
+- **Questions & Discussion:** [**Free Support Forum**](https://sourceforge.net/p/qpc/discussion/668726)
+
+[![Free Support Forum](support.png "Free QP/QM Support Forum")](https://sourceforge.net/p/qpc/discussion/668726)
+
+> [!NOTE]
+> The [QP/QM Free Support Forum](https://sourceforge.net/p/qpc/discussion/668726) has been active for decades &mdash; *predating GitHub* &mdash; and provides a **searchable** archive of answers, troubleshooting guidance, and resolved issues. Posts to this forum benefit the entire community and are typically answered the same day.
+
 # State Machines & Tools for Embedded Systems
 <p align="center">
 <a href="https://www.state-machine.com/products" title="state-machine.com/products">
 <img src="qp_ecosystem.webp"/></a>
 </p>
 
-# Beyond the RTOS
-The unique Quantum Leaps ecosystem enables embedded developers to move beyond
-the traditional RTOS and apply the
-[Active Object (a.k.a. Actor) design pattern](https://www.state-machine.com/qpc/srs-qp_ao.html),
-[hierarchical state machines](https://www.state-machine.com/fsm#HSM),
-[model based design](https://www.state-machine.com/mbd) and automatic code generation
-in small embedded systems, such as ARM Cortex-M MCUs (micro-controller units). Since 2005,
-this **asynchronous event-driven approach** and practical, efficient software have been
-delivering a competitive advantage to
-[hundreds of companies](https://www.state-machine.com/customers/) around the world
-in a wide [variety of markets](https://www.state-machine.com/customers/#Markets).
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=o3eyz1gEqGU" title="Beyond the RTOS videos" target="_blank">
-<img src="beyond-rtos_video.webp" alt="Beyond the RTOS videos" width="800" height="500">
-</a>
-</p>
